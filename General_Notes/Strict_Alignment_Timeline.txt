@@ -1,0 +1,28 @@
+The Alignment system is based on the Pharphesian calendar.
+
+Alignment Standard Time is given in hexadecimal as follows
+
+0xYEAR:MONTH:DATE:HOUR:MINUTE 
+
+1 year is 16 months. 1 month is 16 days. 1 day is 16 hours. 1 hour is 16 minutes. 1 minute is 256 seconds.
+
+1 Pharphesian second is almost exactly equivalent to 1 Earth second ( < .1% difference )
+
+1 Pharphesian year is approximately .53 Earth years.
+1 Earth year is approximately 1.88 Pharphesian years.
+
+1 Pharphesian day is approximately .76 Earth days
+1 Earth day is approximately 1.32 Pharphesian days
+
+1 Pharphesian hour is approximately 1.14 Earth hours
+1 Earth hour is approximately .88 Pharphesian hours 
+
+ 
+0x414F:C:8 – 3:C – Alignment Standard Time --->  16,719:12:8 - 3:12
+	An Unexpected Lesson: Zo talks with zeir parents about the price of the ferry. They plan to go check it out in a week (4 days)
+	
+0x414F:C:8 – 9:5 – Alignment Standard Time --->  16,719:12:8 - 9:5
+	An Unexpected Lesson: Zo is done with zeir first lesson, and discovers zeir bike is broken
+	
+0x414F:C:9 - 7:F 
+	

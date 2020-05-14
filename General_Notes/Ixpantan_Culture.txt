@@ -1,0 +1,9 @@
+Day's of the week:
+
+Lundas
+Mardas
+Miertas
+Jundas
+Vindas
+Sadas
+Dominas
