@@ -1,7 +1,7 @@
 # The Alignment
 
 ## Current Status
-Hello! Welcome to my first attempt at writing a book! Nothing in here is remotely nearing being finished! This is a personal project, and is one I don't intend to try marketing any time soon, as my main priority right now involves starting my career in computer science. I imagine, as my first book, this will probably read very poorly! But I'm having a blast writing it, so if you'd like, hop in and drop me your criticisms and suggestions!
+Hello! Welcome to my first attempt at writing a book (and hopefully eventually a series)! Nothing in here is remotely nearing being finished! This is a personal project, and is one I don't intend to try marketing any time soon, as my main priority right now involves starting my career in computer science. I imagine, as my first book, this will probably read very poorly! But I'm having a blast writing it, so if you'd like, hop in and drop me your criticisms and suggestions!
 
 ## About
 The Alignment series focuses on the stories of a handful of characters from different species, on different planets, in different universes. Assuming a domain in which countably infinitely many universes exist, a finite number of them have - for unknown reasons - began to align with one another. Among the inhabitants of these aligned universes are some rare (or not, based on the species) individuals who are able to interact with universes besides their own. Some can teleport themselves and spaces around them into other universes. Some can pull the laws of physics from one universe into another. Some can do both. This hypercosmological alignment of universes has been occuring for tens of thousands of years - an unfathomably long time for some - the blink of an eye for others. 
