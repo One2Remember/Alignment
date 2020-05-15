@@ -1,4 +1,5 @@
 # The Alignment
+Unpublished Work &copy 2019 Emmanuel Gallegos 
 
 ## Current Status
 Hello! Welcome to my first attempt at writing a book (and hopefully eventually a series)! Nothing in here is remotely nearing being finished! This is a personal project, and it's one I don't intend to try marketing any time soon as my main priority right now involves starting my career in computer science. I imagine, as my first book, this will probably read very poorly! But I'm having a blast writing it! So if you'd like, hop in and drop me your criticisms and suggestions!
