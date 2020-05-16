@@ -22,7 +22,7 @@ Our story's first unfortunate victim - had Adyn's older sister Elyse not strayed
 Why she had entered Tarthus' domain, what she had hoped to accomplish - and who betrayed her - will come to light as Adyn learns of his family's place in a secret order whose history goes back thousands of years, across countless universes. 
 
 ## Closing
-And thus, our stage is set. Vylith, Zo, and Adyn. A fierce huntress in exile who will do anything to protect her beast of a brother. An anxious scavenger and aspiring scholar who hopes to bring prosperity to zeir homeworld. And a humble musician, sassy demon in tow. How will their fates cross in the time to come? And which was most instrumental in finally bringing about the end of the demons? 
+And thus, our stage of many worlds is set, our players - Vylith, Zo, and Adyn - ready to play their parts. A fierce huntress in exile who will do anything to protect her beast of a brother. An anxious scavenger and aspiring scholar who hopes to bring prosperity to zeir homeworld. And a humble musician, sassy demon in tow.
   
 Let any who stand in their paths quake.
   
